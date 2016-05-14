@@ -1,0 +1,22 @@
+{
+  "name": "mre-portfolio",
+  "version": "1.0.0",
+  "description": "Michael's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mre0/michaeledmond.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mre0/michaeledmond/issues"
+  },
+  "homepage": "https://github.com/mre0/michaeledmond#readme",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
